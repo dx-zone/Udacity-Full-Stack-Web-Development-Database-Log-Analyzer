@@ -67,7 +67,7 @@ The **loganalyzer.py** program will look for the questions defined in the **quer
 
 
 
-###Author
+### Author
 
 * Daniel Cruz - [dx-zone](https://github.com/dx-zone)
 
