@@ -65,3 +65,9 @@ To run the program execute:
 
 The **loganalyzer.py** program will look for the questions defined in the **queries.py** script as a list variable (named as questions) as well as the SQL commands defined as list (named as queries).  Once the **loganalyzer.py** import the variables that defines the questions and the SQL commands it will connect to the PostgreSQL database (database named as "news") to execute the SQL queries and print out the title of the questions as well as the results gathered from the queries.
 
+
+
+###Author
+
+* Daniel Cruz - [dx-zone](https://github.com/dx-zone)
+
