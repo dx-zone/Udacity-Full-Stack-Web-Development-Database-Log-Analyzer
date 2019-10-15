@@ -34,7 +34,7 @@ try:
 except (Exception) as error:
     print("\n")
     print("Error while connecting to PostgreSQL database", error)
-    print("""\nCheck the database management system (DBMS) to ensure the following:
+    print("""\nCheck the database management system to ensure the following:
         * DBSM is up and running
         * The DBSM port is accesible
         * Ensure the loganalyzer.py file matches the user name, password \
